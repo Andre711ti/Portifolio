@@ -63,7 +63,8 @@ body {
 
 /* ================= HERO CARD ================= */
 .hero-card {
-  background: #0d0d0d;
+  background: #0d0d0dde;
+  animation: float 2s ease-in-out infinite alternate;
   border-radius: 20px;
   padding: 80px 60px;
   margin-top: 60px;
@@ -120,7 +121,6 @@ body {
 /* ================= IMAGEM ================= */
 .hero-img {
   max-width: 100%;
-  animation: float 2s ease-in-out infinite alternate;
 }
 
 @keyframes float {
