@@ -711,7 +711,7 @@ section {
   }
 
   .hero-card {
-    padding: 45px 22px 10px;
+    padding: 45px 22px 0px 22px;
   }
 
   .section-card,
